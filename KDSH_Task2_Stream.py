@@ -1,5 +1,6 @@
 ## Imports and Initialization
 ## This section imports necessary libraries and initializes key components for our paper prediction pipeline:
+## pip install -U langchain-community
 
 import streamlit as st
 from transformers import AutoTokenizer, AutoModel
